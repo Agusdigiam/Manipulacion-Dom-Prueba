@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main_card {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkcyan;
+    text-align: center;
+    padding: 40px;
+}
+
+.parrafo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+#id {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
